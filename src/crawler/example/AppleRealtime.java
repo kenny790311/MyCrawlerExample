@@ -111,7 +111,7 @@ public class AppleRealtime {
 		for(String key: orderedNew.keySet() ){
 			System.out.println( orderedNew.get(key) );
 		}
-		
+		System.out.println("hello taipei");
 	}
 	
 }
